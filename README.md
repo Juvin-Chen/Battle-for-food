@@ -1,7 +1,5 @@
 # 🥤 Battle for Food - EasyX C++ Game
 
-![Language](https://img.shields.io/badge/Language-C++-blue.svg) ![Platform](https://img.shields.io/badge/Platform-Windows%20Only-lightgrey.svg) ![Library](https://img.shields.io/badge/Library-EasyX-orange.svg) ![IDE](https://img.shields.io/badge/IDE-Visual%20Studio%202022-purple.svg)
-
 ## 项目简介 (Introduction)
 
 **Battle for Food** 是一款基于 **C++** 和 **EasyX 图形库** 开发的本地双人竞技游戏。
