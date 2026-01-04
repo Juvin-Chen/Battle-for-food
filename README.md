@@ -2,14 +2,14 @@
 
 ![Language](https://img.shields.io/badge/Language-C++-blue.svg) ![Platform](https://img.shields.io/badge/Platform-Windows%20Only-lightgrey.svg) ![Library](https://img.shields.io/badge/Library-EasyX-orange.svg) ![IDE](https://img.shields.io/badge/IDE-Visual%20Studio%202022-purple.svg)
 
-## 📖 项目简介 (Introduction)
+## 项目简介 (Introduction)
 
 **Battle for Food** 是一款基于 **C++** 和 **EasyX 图形库** 开发的本地双人竞技游戏。
 两位玩家在同一屏幕上通过争夺随机生成的饮料来强化自己，经历"变大"与"觉醒"两个阶段，最终通过激光射击决出胜负。
 
 本项目在 Visual Studio 2022 环境下开发，利用面向对象编程思想实现了角色状态管理、碰撞检测及文件读写功能。
 
-## ✨ 核心玩法与机制 (Game Mechanics)
+## 核心玩法与机制 (Game Mechanics)
 
 游戏分为两个阶段：
 
@@ -35,7 +35,7 @@
 
 > **注意**：只有在达到 30 分后，攻击按键才会生效。
 
-## 🛠️ 开发环境与构建 (Environment)
+## 开发环境与构建 (Environment)
 
 由于本项目使用了 EasyX 库，仅支持 Windows 操作系统。
 
