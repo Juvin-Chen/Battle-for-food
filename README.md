@@ -1,4 +1,4 @@
-# Battle for Food🥤
+# Battle for Food
 
 ## 项目简介 (Introduction)
 
@@ -48,5 +48,3 @@
 3.  双击打开 `.sln` 解决方案文件。
 4.  在 Visual Studio 中点击 **"本地 Windows 调试器"** (Local Windows Debugger) 即可运行。
 
-## my feelings
-这就是一个很简单的小游戏，简单的移动、攻击等，但其实对我来说这个游戏有些纪念意义，这是我在大一下完成我一门大学课程时候编写的，也正是那时候，我真正开始决定把计算机当作我的未来事业。
