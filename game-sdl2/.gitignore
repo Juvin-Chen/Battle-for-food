@@ -1,0 +1,46 @@
+# 构建目录
+build/
+cmake-build-*/
+out/
+bin/
+lib/
+
+# CMake 生成文件
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+!CMakeLists.txt
+
+# 编译产物
+*.exe
+*.dll
+*.lib
+*.a
+*.o
+*.obj
+*.pdb
+*.ilk
+
+# IDE 文件
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# 临时文件
+*.tmp
+*.log
+*.swp
+*~
+.DS_Store
+
+# 可执行文件和 DLL（如果不想提交）
+# 取消注释下面这行如果不想提交 SDL2.dll
+# *.dll
+
